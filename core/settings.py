@@ -1,5 +1,5 @@
 """
-using Django 4.2.2.
+using Django 4.2.6.
 """
 
 import os
